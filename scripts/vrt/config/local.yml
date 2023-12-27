@@ -6,13 +6,13 @@ pages:
   - name: ホーム - 過去
     path: /2022-10-26
   - name: 出走表
-    path: /races/95de6561-c8b8-42eb-94c7-6952b73cd52c/race-card
+    path: /races/d6d39349-2c61-48bb-a91c-4a16ee6742a1/race-card
   - name: オッズ - 締め切り前
-    path: /races/342d7010-89e1-4c3a-a531-37421180def2/odds
+    path: /races/d6d39349-2c61-48bb-a91c-4a16ee6742a1/odds
   - name: オッズ - 締め切り後
-    path: /races/96273939-5ab0-4e40-a3fd-dcc5b513905b/odds
+    path: /races/6de0c655-4483-42f1-80b2-7b6c9d2bf2aa/odds
   - name: 結果
-    path: /races/818a6d0e-fbe7-4f47-8284-5ee37ba2d19f/result
+    path: /races/f45152a0-b6eb-417f-bdc9-d36b249b498b/result
 viewports:
   - name: Pixel 5
     width: 393
