@@ -32,9 +32,9 @@
 
 <!-- leaderboard:start -->
 
-| Rank | Score |     | CompetitorId | URL |
-| :--: | :---: | :-: | :----------- | :-: |
-|      |       |     |              |     |
+|Rank|Score||CompetitorId|URL|
+|:--:|:--:|:--:|:--|:--:|
+|1|**46.50**|<img alt="" width="50" height="50" src="https://github.com/higuchimmy.png?size=100"/>|[@higuchimmy](https://github.com/higuchimmy)|[:link:](https://web-speed-hackathon-2022-higu.fly.dev/)|
 
 <!-- leaderboard:end -->
 
